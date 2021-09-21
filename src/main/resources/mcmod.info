@@ -1,0 +1,16 @@
+[
+{
+  "modid": "BoostingElytra",
+  "name": "Boosting Elytra",
+  "description": "A mod that adds boosting elytra.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Varijon"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
